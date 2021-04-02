@@ -1,0 +1,10 @@
+.UserList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.UserList > * {
+    margin: 30px;
+}
